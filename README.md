@@ -1,4 +1,5 @@
-## Docs 📚🖥
+## Documentation 📚
+###### docs
 ## test-repository
 ## test-repository
 ## test-repository
@@ -28,4 +29,4 @@
 ## test-repository
 ## test-repository
 ## test-repository
-[link](#Docs)
+[link](#docs)
