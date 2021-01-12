@@ -1,4 +1,4 @@
-## Documentaion 
+## docs 
 ## test-repository
 ## test-repository
 ## test-repository
@@ -28,4 +28,4 @@
 ## test-repository
 ## test-repository
 ## test-repository
-[link](#documentation)
+[link](#docs)
